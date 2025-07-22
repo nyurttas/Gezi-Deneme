@@ -1,0 +1,8 @@
+.routes-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .routes-list li {
+    margin: 0.5rem 0;
+  }
