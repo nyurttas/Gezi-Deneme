@@ -1,3 +1,13 @@
+# Balkan Gezi Rehberi
+
+Bu proje, JavaScript, HTML ve CSS kullanılarak geliştirilmiş bir Balkan Gezi Rehberi web sitesidir. Ziyaretçilere Balkan ülkeleri hakkında bilgi, öneriler ve seyahat rehberliği sağlamayı amaçlar.
+
+## Özellikler
+
+- **Ülke Tanıtımları:** Arnavutluk, Bosna-Hersek, Sırbistan, Karadağ, Makedonya gibi Balkan ülkeleri hakkında bilgilendirici içerikler.
+- **Gezilecek Yerler:** Her ülke için önemli turistik noktaların fotoğrafları ve açıklamaları.
+- **Kullanıcı Dostu Arayüz:** Kolay ve sezgisel gezinme menüsü.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
